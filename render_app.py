@@ -51,7 +51,7 @@ class WebOnlyFaceSystem:
     def load_current_users(self):
         """Current users yuklash"""
         try:
-            if self.mongodb_db:
+            if self.mongodb_db is not None:
                 # MongoDB dan yuklash
                 system_doc = self.mongodb_db.system.find_one({'type': 'current_users'})
                 if system_doc and 'data' in system_doc:
@@ -72,7 +72,7 @@ class WebOnlyFaceSystem:
     def load_known_users(self):
         """Known users yuklash"""
         try:
-            if self.mongodb_db:
+            if self.mongodb_db is not None:
                 # MongoDB dan yuklash
                 users = list(self.mongodb_db.users.find({}, {'name': 1}))
                 if users:
@@ -94,7 +94,7 @@ class WebOnlyFaceSystem:
         """User statistikasi"""
         stats = []
         try:
-            if self.mongodb_db:
+            if self.mongodb_db is not None:
                 # MongoDB dan real statistika
                 for user in self.known_face_names:
                     user_doc = self.mongodb_db.users.find_one({'name': user})
@@ -144,7 +144,7 @@ class WebDataManager:
     def get_daily_summary(self, target_date):
         """Kunlik hisobot"""
         try:
-            if self.mongodb_db:
+            if self.mongodb_db is not None:
                 # MongoDB dan real ma'lumot
                 start_date = datetime.combine(target_date, datetime.min.time())
                 end_date = start_date + timedelta(days=1)
