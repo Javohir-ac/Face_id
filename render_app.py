@@ -24,7 +24,17 @@ def get_mongodb_connection():
     try:
         mongodb_uri = os.environ.get('MONGODB_URI')
         if mongodb_uri:
-            client = MongoClient(mongodb_uri)
+            # SSL muammosini hal qilish uchun
+            client = MongoClient(
+                mongodb_uri,
+                tls=True,
+                tlsAllowInvalidCertificates=True,
+                serverSelectionTimeoutMS=5000,
+                connectTimeoutMS=5000,
+                socketTimeoutMS=5000
+            )
+            # Connection test
+            client.admin.command('ping')
             db = client.face_recognition_db
             logger.info("MongoDB ga muvaffaqiyatli ulandi")
             return db
@@ -33,6 +43,7 @@ def get_mongodb_connection():
             return None
     except Exception as e:
         logger.error(f"MongoDB ulanish xatosi: {e}")
+        logger.info("Demo mode da davom etiladi")
         return None
 
 # Mock Face System for web-only
