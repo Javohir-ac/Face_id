@@ -290,6 +290,7 @@ def create_render_app():
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Face ID Dashboard - Render.com</title>
+            <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
             <style>
                 * { margin: 0; padding: 0; box-sizing: border-box; }
                 body { 
@@ -508,7 +509,7 @@ def create_render_app():
                         })
                         .catch(error => {
                             console.error('Error:', error);
-                            document.getElementById('stats').innerHTML = '<div class="loading">❌ Ma\'lumot yuklashda xatolik</div>';
+                            document.getElementById('stats').innerHTML = '<div class="loading">❌ Ma\\'lumot yuklashda xatolik</div>';
                             document.getElementById('users').innerHTML = '<div class="loading">❌ Foydalanuvchilar yuklashda xatolik</div>';
                         });
                 }
@@ -609,6 +610,11 @@ def create_render_app():
         except Exception as e:
             logger.error(f"Daily summary error: {e}")
             return jsonify({'error': str(e)}), 500
+    
+    @app.route('/favicon.ico')
+    def favicon():
+        """Favicon endpoint"""
+        return '', 204  # No Content
     
     @app.errorhandler(404)
     def not_found(error):
