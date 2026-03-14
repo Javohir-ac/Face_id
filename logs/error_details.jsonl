@@ -1,0 +1,6 @@
+{"timestamp": "2026-03-13T17:16:19.530422", "level": "ERROR", "context": "CameraMonitor", "error_type": "Exception", "error_message": "Camera connection failed", "traceback": "NoneType: None\n", "extra_data": {}}
+{"timestamp": "2026-03-13T17:18:52.036680", "level": "ERROR", "context": "CameraMonitor", "error_type": "Exception", "error_message": "Camera connection failed", "traceback": "NoneType: None\n", "extra_data": {}}
+{"timestamp": "2026-03-13T17:21:09.680125", "level": "ERROR", "context": "CameraMonitor", "error_type": "Exception", "error_message": "Camera connection failed", "traceback": "NoneType: None\n", "extra_data": {}}
+{"timestamp": "2026-03-13T17:25:26.279949", "level": "ERROR", "context": "CameraMonitor", "error_type": "Exception", "error_message": "Camera connection failed", "traceback": "NoneType: None\n", "extra_data": {}}
+{"timestamp": "2026-03-13T17:27:57.620119", "level": "ERROR", "context": "CameraMonitor", "error_type": "Exception", "error_message": "Camera connection failed", "traceback": "NoneType: None\n", "extra_data": {}}
+{"timestamp": "2026-03-14T14:40:51.720086", "level": "ERROR", "context": "CameraMonitor", "error_type": "Exception", "error_message": "Camera connection failed", "traceback": "NoneType: None\n", "extra_data": {}}

@@ -1,0 +1,35 @@
+# 🌐 RENDER.COM UCHUN REQUIREMENTS
+# Web-only Face ID dashboard
+
+# Core web framework
+flask>=2.3.0
+gunicorn>=21.2.0
+
+# Database
+pymongo>=4.5.0
+python-dotenv>=1.0.0
+
+# Excel export
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# System monitoring
+psutil>=5.9.0
+
+# Caching (optional)
+flask-caching>=2.1.0
+
+# CORS support
+flask-cors>=4.0.0
+
+# JSON handling
+jsonify
+
+# Date/time utilities
+python-dateutil>=2.8.0
+
+# Security
+cryptography>=41.0.0
+
+# Performance
+gevent>=23.0.0

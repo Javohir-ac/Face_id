@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: face-id-web
+    env: python
+    buildCommand: pip install -r render_requirements.txt
+    startCommand: gunicorn render_app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.18
+      - key: DEBUG
+        value: false
+      - key: MONGODB_URI
+        sync: false  # Bu environment variable dan olinadi

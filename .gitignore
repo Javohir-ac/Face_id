@@ -1,0 +1,177 @@
+# 🔒 FACE ID - GITIGNORE
+# Maxfiy va keraksiz fayllarni GitHub ga yuklashdan saqlash
+
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ===== VIRTUAL ENVIRONMENT =====
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# ===== MAXFIY FAYLLAR (MUHIM!) =====
+.env
+.env.local
+.env.production
+config_local.json
+secrets.json
+
+# MongoDB connection strings
+mongodb_config.json
+
+# ===== FACE DATA (JUDA MUHIM!) =====
+face_data/
+*.pkl
+face_encodings.pkl
+encodings/
+
+# User rasmlari
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+# Lekin demo rasmlar uchun istisno
+!demo_images/
+!static/images/
+
+# ===== MA'LUMOTLAR BAZASI =====
+*.db
+*.sqlite3
+*.sqlite
+database.json
+users_backup.json
+
+# ===== LOGLAR =====
+*.log
+logs/
+log_files/
+debug.log
+error.log
+system.log
+
+# ===== CACHE VA TEMP =====
+cache/
+*.cache
+temp/
+tmp/
+.tmp/
+state_backup/
+backups/
+*.backup
+
+# ===== IDE VA EDITOR =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ===== OS FAYLLARI =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ===== JUPYTER NOTEBOOK =====
+.ipynb_checkpoints/
+*.ipynb
+
+# ===== PYTEST =====
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ===== MYPY =====
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ===== SYSTEM FAYLLARI =====
+*.pid
+*.lock
+face_id.pid
+system_session.json
+
+# ===== PERFORMANCE FAYLLARI =====
+*.prof
+*.pstats
+
+# ===== BACKUP FAYLLARI =====
+*.bak
+*.backup
+*.old
+*~
+
+# ===== RENDER/DEPLOYMENT =====
+# Render.com uchun kerakli fayllar IGNORE QILMASLIK
+# render_app.py - kerak
+# render_requirements.txt - kerak  
+# Procfile - kerak
+# render.yaml - kerak
+
+# ===== TEST FAYLLARI =====
+test_*.json
+*_test.json
+test_data/
+mock_data/
+
+# ===== LARGE FAYLLARI =====
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ===== DOCUMENTATION BUILD =====
+docs/_build/
+site/
+
+# ===== CERTIFICATES =====
+*.pem
+*.key
+*.crt
+*.cert
+
+# ===== CUSTOM IGNORES =====
+# Loyiha-specific fayllar
+current_users_backup.json
+attendance_backup.json
+face_system_backup/
+
+# Development fayllari
+dev_config.json
+local_settings.py
+debug_*.py
+
+# Production secrets
+production.env
+prod_config.json

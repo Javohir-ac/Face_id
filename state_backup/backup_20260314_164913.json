@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "timestamp": "2026-03-14T16:49:13.165643",
+  "current_users": {
+    "Javohir": {
+      "entry_time": "2026-03-14T16:48:57.933759",
+      "duration_minutes": 0.25386605,
+      "expected_action": "exit"
+    }
+  },
+  "system_info": {
+    "total_users": 137,
+    "total_encodings": 137,
+    "uptime_seconds": 16.472578525543213,
+    "config": {
+      "web_port": 8080,
+      "confidence_threshold": 0.6,
+      "recognition_cooldown": 60,
+      "camera_source": 0,
+      "camera_type": "USB",
+      "zones": {
+        "entry_zone": {
+          "x": 0,
+          "width": 0.3
+        },
+        "neutral_zone": {
+          "x": 0.3,
+          "width": 0.4
+        },
+        "exit_zone": {
+          "x": 0.7,
+          "width": 0.3
+        }
+      },
+      "auto_backup_hours": [
+        9,
+        13,
+        17,
+        21
+      ],
+      "scheduler": {
+        "end_of_day_time": "23:59",
+        "weekly_cleanup_day": "sunday",
+        "weekly_cleanup_time": "02:00",
+        "performance_log_time": "23:58",
+        "enabled": true
+      }
+    }
+  },
+  "session_stats": {
+    "total_recognitions": 0,
+    "successful_recognitions": 0,
+    "failed_recognitions": 0
+  }
+}

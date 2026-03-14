@@ -1,0 +1,5002 @@
+[
+  {
+    "timestamp": "2026-03-12T15:27:46.756286",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:47.361092",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (35 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:47.521027",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (36 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:57.122066",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (45 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:57.278432",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (45 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:57.583082",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:57.736768",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:57.890826",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:58.055989",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:58.212699",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:58.367626",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:58.521589",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (47 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:58.828510",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (47 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:58.981270",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (47 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:59.135700",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (47 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:59.773204",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (48 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:27:59.929367",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (48 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:28:00.086297",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (48 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:28:00.242928",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (48 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:28:00.397292",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (49 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:28:00.709470",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (49 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:30:46.504607",
+    "level": "WARNING",
+    "message": "Professional encoding fayli topilmadi"
+  },
+  {
+    "timestamp": "2026-03-12T15:30:46.504948",
+    "level": "INFO",
+    "message": "Professional yuz o'qitish boshlandi..."
+  },
+  {
+    "timestamp": "2026-03-12T15:30:48.947350",
+    "level": "INFO",
+    "message": "Javohir: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:30:49.037769",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:30:50.863893",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_002_left.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:30:51.185686",
+    "level": "INFO",
+    "message": "Lochinbek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:30:51.186068",
+    "level": "INFO",
+    "message": "Jami 28 ta encoding, 2 ta foydalanuvchi saqlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:50.127618",
+    "level": "INFO",
+    "message": "28 ta encoding, 2 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:50.130256",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:50.918769",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.76)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:50.919067",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.76)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:51.598377",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:51.929148",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:52.590988",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:52.919982",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:53.274823",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:53.436287",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:31:55.713515",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.113318",
+    "level": "INFO",
+    "message": "Lochinbek - ENTRY (camera zonasida, confidence: 0.59)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.113592",
+    "level": "INFO",
+    "message": "Lochinbek keldi (professional confidence: 0.59)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.289107",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.455397",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.622029",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.789594",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:06.956626",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:07.125247",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:07.293136",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:07.455669",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:07.621885",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:07.949853",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:32:09.282862",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:34.476394",
+    "level": "INFO",
+    "message": "Lochinbek - EXIT (camera zonasida, confidence: 0.63)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:34.476795",
+    "level": "INFO",
+    "message": "Lochinbek ketdi (professional confidence: 0.63, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:34.636412",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:34.797146",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:34.953544",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:35.129847",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:35.287650",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:35.445705",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:35.607031",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:35.767299",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:35.924538",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:36.393961",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:36.558052",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:34:36.718192",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:07.631604",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.59)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:07.631909",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.59, davomiyligi: 3 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:07.942917",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:08.718741",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:09.027689",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:14.245679",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:14.401161",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:14.569397",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:14.724769",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:14.880566",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:35:15.037211",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:04.857208",
+    "level": "INFO",
+    "message": "28 ta encoding, 2 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:04.859501",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:05.480242",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.77)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:05.480598",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.77)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:05.642147",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:06.291550",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:06.446932",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:07.085922",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:07.547300",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:07.861077",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:08.013019",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:08.169119",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:08.322819",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:08.475759",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:19.603230",
+    "level": "INFO",
+    "message": "Lochinbek - ENTRY (camera zonasida, confidence: 0.40)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:19.603548",
+    "level": "INFO",
+    "message": "Lochinbek keldi (professional confidence: 0.40)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:20.554705",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:21.342961",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:22.130089",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:22.915929",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:23.076422",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:23.230714",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:23.385200",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:23.542403",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:23.695664",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:23.850406",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:24.157738",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (19 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:25.101822",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:25.276405",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (20 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:25.895573",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (20 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:26.215217",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (21 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.008535",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (10 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.174836",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.330939",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.487970",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.648738",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.804654",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (25 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:30.963300",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:31.120206",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:31.277085",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:32.063965",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:33.330819",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (14 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:34.283521",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (15 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:52.276608",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:52.437650",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:52.596758",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:52.753394",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:52.909558",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:53.065022",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:53.222760",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:53.386712",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:53.543833",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:53.703645",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:53.869002",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:54.028976",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:54.185703",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (35 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:54.653629",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (35 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:54.814896",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (35 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:55.589823",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (50 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:55.749547",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (50 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:55.905564",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (50 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:56.063467",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (51 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:56.232235",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (51 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:56.404172",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (51 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:56.573706",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (51 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:56.734164",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (51 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:56.903028",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (51 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:57.078979",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:57.238178",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:57.399150",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:58.032446",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (53 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:58.665714",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (53 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:42:59.145560",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (54 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:43:22.124967",
+    "level": "INFO",
+    "message": "28 ta encoding, 2 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:43:22.125511",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 2 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:43:22.127729",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:43:22.128395",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:43:22.131194",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:18.652717",
+    "level": "INFO",
+    "message": "28 ta encoding, 2 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:18.653325",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 2 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:18.656018",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:18.656671",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:18.659396",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:19.553097",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:19.553608",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.62, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:19.941765",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:20.150696",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:20.350266",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:20.575015",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:21.269771",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:22.336613",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:23.667219",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:24.356002",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:26.132830",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:28.448421",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (9 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:29.057832",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (10 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:29.217148",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (10 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:29.384185",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (10 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:29.731065",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (10 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:30.207123",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:30.359047",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:30.526720",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:30.721357",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:30.893373",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:31.047304",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:31.370912",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:33.516829",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (14 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:34.591953",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (15 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:34.753381",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (15 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:35.084729",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (16 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:35.255391",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (16 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:35.754885",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (16 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:37.043286",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (17 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:37.365931",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (18 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:38.989464",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (19 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:39.150738",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (20 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:39.572437",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (20 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:39.894551",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (20 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:41.300222",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (22 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:41.490641",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (22 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:41.669707",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (22 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:42.489172",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (23 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:42.825031",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (23 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:42.995280",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (23 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:43.331510",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (24 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:51.133742",
+    "level": "WARNING",
+    "message": "Professional encoding fayli topilmadi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:51.134517",
+    "level": "INFO",
+    "message": "Professional yuz o'qitish boshlandi..."
+  },
+  {
+    "timestamp": "2026-03-12T15:44:53.812536",
+    "level": "INFO",
+    "message": "Asilbek: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:56.143741",
+    "level": "INFO",
+    "message": "Javohir: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:56.842253",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_015_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:58.299551",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:58.904013",
+    "level": "INFO",
+    "message": "Oybek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:44:58.998845",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:00.806961",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_002_left.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:01.124930",
+    "level": "INFO",
+    "message": "Lochinbek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:01.215920",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_013_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.161920",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_006_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.411268",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.723771",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_007_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.724559",
+    "level": "INFO",
+    "message": "Og'abek: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.727581",
+    "level": "INFO",
+    "message": "Jami 67 ta encoding, 5 ta foydalanuvchi saqlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.728762",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 1 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:03.729806",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:46:39.850086",
+    "level": "INFO",
+    "message": "67 ta encoding, 5 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:46:39.850789",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 1 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:46:39.852351",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:46:39.856082",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:47:57.347581",
+    "level": "INFO",
+    "message": "67 ta encoding, 5 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:47:57.348314",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 1 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:47:57.349809",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:47:57.352496",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:47:58.009412",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.73)"
+  },
+  {
+    "timestamp": "2026-03-12T15:47:58.010376",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.73)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:00.592720",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:00.764596",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:00.941744",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:01.111269",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:01.279994",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:01.449551",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:01.617114",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:01.785562",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:20.155120",
+    "level": "INFO",
+    "message": "Og'abek - ENTRY (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:20.155790",
+    "level": "INFO",
+    "message": "Og'abek keldi (professional confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:20.327639",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:20.663941",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:20.832134",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:21.349951",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:21.528123",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:22.047035",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:30.474573",
+    "level": "INFO",
+    "message": "Oybek - ENTRY (camera zonasida, confidence: 0.63)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:30.475221",
+    "level": "INFO",
+    "message": "Oybek keldi (professional confidence: 0.63)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:30.662272",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:30.844651",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:31.013908",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:31.184805",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:31.408820",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:31.748808",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:17.104577",
+    "level": "INFO",
+    "message": "Asilbek - ENTRY (camera zonasida, confidence: 0.72)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:17.105285",
+    "level": "INFO",
+    "message": "Asilbek keldi (professional confidence: 0.72)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:17.435616",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:17.601821",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:17.765266",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:17.929490",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:18.091832",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:49:18.417306",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:07.734403",
+    "level": "WARNING",
+    "message": "Professional encoding fayli topilmadi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:07.735270",
+    "level": "INFO",
+    "message": "Professional yuz o'qitish boshlandi..."
+  },
+  {
+    "timestamp": "2026-03-12T15:54:10.901895",
+    "level": "INFO",
+    "message": "Asilbek: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:13.611376",
+    "level": "INFO",
+    "message": "Javohir: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:14.380609",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_015_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:15.998876",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:16.667949",
+    "level": "INFO",
+    "message": "Oybek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:16.768660",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:18.832594",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_002_left.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:19.189696",
+    "level": "INFO",
+    "message": "Lochinbek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:19.294714",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_013_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:21.442116",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_006_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:21.720709",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:22.075311",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_007_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:22.076144",
+    "level": "INFO",
+    "message": "Og'abek: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:23.070257",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_010_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:23.174859",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:23.279319",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_002_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:23.381522",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.414457",
+    "level": "INFO",
+    "message": "Mehriddin: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.415713",
+    "level": "INFO",
+    "message": "Jami 78 ta encoding, 6 ta foydalanuvchi saqlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.417185",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.417832",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.418685",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.419436",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.420210",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:54:24.421178",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:28.069330",
+    "level": "WARNING",
+    "message": "Professional encoding fayli topilmadi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:28.070149",
+    "level": "INFO",
+    "message": "Professional yuz o'qitish boshlandi..."
+  },
+  {
+    "timestamp": "2026-03-12T15:56:30.824946",
+    "level": "INFO",
+    "message": "Asilbek: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:33.223194",
+    "level": "INFO",
+    "message": "Javohir: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:33.931976",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_015_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:35.460625",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:36.082613",
+    "level": "INFO",
+    "message": "Oybek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:38.798123",
+    "level": "INFO",
+    "message": "Odinaxon: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:38.893744",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:40.771259",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_002_left.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:41.101675",
+    "level": "INFO",
+    "message": "Lochinbek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:41.195146",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_013_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:43.161501",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_006_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:43.421032",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:43.739392",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_007_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:43.740216",
+    "level": "INFO",
+    "message": "Og'abek: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:44.632859",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_010_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:44.730700",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:44.830160",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_002_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:44.930742",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.903575",
+    "level": "INFO",
+    "message": "Mehriddin: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.905215",
+    "level": "INFO",
+    "message": "Jami 93 ta encoding, 7 ta foydalanuvchi saqlandi"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.907619",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.908450",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.909244",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.909988",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.911169",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T15:56:45.912375",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:46.611437",
+    "level": "WARNING",
+    "message": "Professional encoding fayli topilmadi"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:46.612336",
+    "level": "INFO",
+    "message": "Professional yuz o'qitish boshlandi..."
+  },
+  {
+    "timestamp": "2026-03-12T16:01:49.384507",
+    "level": "INFO",
+    "message": "Asilbek: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:51.798643",
+    "level": "INFO",
+    "message": "Javohir: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:53.719071",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Sabrina/Sabrina_001_left.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:54.770832",
+    "level": "INFO",
+    "message": "Sabrina: 14 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:55.489358",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_015_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:57.002534",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Oybek/Oybek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:01:57.647081",
+    "level": "INFO",
+    "message": "Oybek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:00.520934",
+    "level": "INFO",
+    "message": "Farizod: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:03.229493",
+    "level": "INFO",
+    "message": "Odinaxon: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:03.329251",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:05.197745",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Lochinbek/Lochinbek_002_left.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:05.532822",
+    "level": "INFO",
+    "message": "Lochinbek: 13 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:08.635631",
+    "level": "INFO",
+    "message": "Hosila: 15 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:08.729981",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_013_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:10.682475",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_006_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:10.935367",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:11.259986",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Og'abek/Og'abek_007_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:11.260981",
+    "level": "INFO",
+    "message": "Og'abek: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:12.152021",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_010_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:12.248475",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_001_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:12.341836",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_002_front.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:12.439959",
+    "level": "WARNING",
+    "message": "Yuz topilmadi: face_data/Mehriddin/Mehriddin_009_right.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.465600",
+    "level": "INFO",
+    "message": "Mehriddin: 11 ta professional encoding yaratildi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.468168",
+    "level": "INFO",
+    "message": "Jami 137 ta encoding, 10 ta foydalanuvchi saqlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.469077",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.470082",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.471278",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.472185",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.472994",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:13.473779",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.363918",
+    "level": "INFO",
+    "message": "137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.364935",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.367643",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.368714",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.369855",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.371436",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.372447",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:02:45.376331",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:00.479825",
+    "level": "INFO",
+    "message": "Hosila - ENTRY (camera zonasida, confidence: 0.50)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:00.480666",
+    "level": "INFO",
+    "message": "Hosila keldi (professional confidence: 0.50)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:01.004517",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:01.176429",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:01.351608",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:01.530090",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:01.727377",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:01.912410",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:02.963016",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:03.180387",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:37.413042",
+    "level": "INFO",
+    "message": "Og'abek - EXIT (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:37.414047",
+    "level": "INFO",
+    "message": "Og'abek ketdi (professional confidence: 0.69, davomiyligi: 15 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:37.571894",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:37.885335",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:38.042766",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:38.519368",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:38.835495",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:39.003704",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:39.476277",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:39.633514",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:03:39.792876",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:09:02.377874",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-12T16:09:02.378732",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.69, davomiyligi: 21 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T16:09:04.356445",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:09:05.657446",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.147749",
+    "level": "INFO",
+    "message": "137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.150393",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 4 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.151707",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.153163",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.154486",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.155722",
+    "level": "INFO",
+    "message": "Hosila - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:49.160298",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:53.342871",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:53.343908",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:53.545836",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:53.717618",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:53.910459",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:54.103452",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:54.841446",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:55.022107",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:55.384476",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:15:57.004396",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.663713",
+    "level": "INFO",
+    "message": "137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.664741",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.665670",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.666676",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.667697",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.669790",
+    "level": "INFO",
+    "message": "Hosila - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.671377",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:50.675479",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:57.152280",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:57.153182",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.58, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:57.333643",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:57.831545",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:17:58.019658",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:11.812263",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.56)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:11.813201",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.56)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:12.288022",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:12.767794",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:51.975581",
+    "level": "INFO",
+    "message": "Og'abek - ENTRY (camera zonasida, confidence: 0.71)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:51.976565",
+    "level": "INFO",
+    "message": "Og'abek keldi (professional confidence: 0.71)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:52.140326",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:52.461610",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:52.947802",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:53.425094",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:53.756957",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:54.235703",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:54.395135",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:54.557707",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:55.035542",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:55.623705",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:55.785175",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:55.944746",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:56.264574",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:20:56.425753",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.045485",
+    "level": "INFO",
+    "message": "137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.046590",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 6 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.047802",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.050074",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.051226",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.052351",
+    "level": "INFO",
+    "message": "Hosila - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.053526",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.055547",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:22:23.062265",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.816435",
+    "level": "INFO",
+    "message": "137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.817499",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 6 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.818454",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.819441",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.820508",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.821536",
+    "level": "INFO",
+    "message": "Hosila - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.822654",
+    "level": "INFO",
+    "message": "Javohir - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.824995",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:25.831440",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:28.093919",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:28.094967",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.58, davomiyligi: 4 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T16:24:28.405529",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.172605",
+    "level": "INFO",
+    "message": "137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.173736",
+    "level": "INFO",
+    "message": "Oldingi holat yuklandi: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.174773",
+    "level": "INFO",
+    "message": "Lochinbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.176033",
+    "level": "INFO",
+    "message": "Oybek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.177159",
+    "level": "INFO",
+    "message": "Asilbek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.178255",
+    "level": "INFO",
+    "message": "Hosila - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.179267",
+    "level": "INFO",
+    "message": "Og'abek - oldingi sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.183836",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.969983",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:00.971154",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:02.464792",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:03.084699",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:04.346179",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:09.273013",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (8 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:09.842900",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (9 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:10.017094",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (9 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:10.583524",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (10 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:14.429732",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (13 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:14.628650",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (14 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:15.151671",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (14 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:15.576039",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (15 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:16.147562",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (15 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T16:31:16.340238",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (15 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.721026",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.925050",
+    "level": "INFO",
+    "message": "JSON: 6 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.930839",
+    "level": "INFO",
+    "message": "Lochinbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.937070",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.941221",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.944274",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.946443",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:10:31.948052",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.418495",
+    "level": "INFO",
+    "message": "MongoDB: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.608616",
+    "level": "INFO",
+    "message": "JSON: 6 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.613358",
+    "level": "INFO",
+    "message": "Lochinbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.620059",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.622044",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.624027",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.626100",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.628051",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:12.632168",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:14.239351",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:14.243405",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.69, davomiyligi: 43 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:20.205228",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (6 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:14:23.202341",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (9 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:02.636847",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (48 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:02.798947",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (49 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:03.282757",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (49 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:06.088613",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:06.253989",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:06.419488",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:06.585987",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (52 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:09.944345",
+    "level": "INFO",
+    "message": "Lochinbek - EXIT (camera zonasida, confidence: 0.66)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:09.949926",
+    "level": "INFO",
+    "message": "Lochinbek ketdi (professional confidence: 0.66, davomiyligi: 92 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:10.283845",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:10.513576",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:10.744938",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:10.971621",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:11.199392",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:11.428769",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:12.237712",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (58 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:14.517057",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (60 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:14.676431",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (60 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:20.306346",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (66 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:21.351348",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (67 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:24.149179",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (70 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:15:27.390077",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (73 soniya)"
+  },
+  {
+    "timestamp": "2026-03-12T17:17:02.384867",
+    "level": "INFO",
+    "message": "MongoDB: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-12T17:17:02.684883",
+    "level": "INFO",
+    "message": "MongoDB: 4 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-12T17:17:02.690481",
+    "level": "INFO",
+    "message": "Oybek - MongoDB sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:17:02.697429",
+    "level": "INFO",
+    "message": "Asilbek - MongoDB sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:17:02.701089",
+    "level": "INFO",
+    "message": "Hosila - MongoDB sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-12T17:17:02.703901",
+    "level": "INFO",
+    "message": "Og'abek - MongoDB sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.196556",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.202008",
+    "level": "INFO",
+    "message": "JSON: 4 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.206536",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.209954",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.215500",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.219723",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:45.230889",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:48.999888",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.59)"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:49.001126",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.59)"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:49.305285",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:34:51.238831",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:38:31.456337",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-13T08:38:31.458604",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.58, davomiyligi: 3 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T08:40:48.947164",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-13T08:40:48.948422",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-13T08:40:49.418652",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:40:49.731403",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:40:52.110175",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.076469",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.080410",
+    "level": "INFO",
+    "message": "JSON: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.085343",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.088959",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.092867",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.097220",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.101863",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:16.107861",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:21.084575",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.57)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:21.086008",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.57, davomiyligi: 6 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:21.776660",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:22.346374",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:22.644368",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:22.878384",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:47:23.044873",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.942629",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.949739",
+    "level": "INFO",
+    "message": "JSON: 4 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.954729",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.956300",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.957996",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.959366",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:59.963463",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:06.682087",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.51)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:06.683675",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.51)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:07.064294",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:07.239119",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:07.455645",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:08.109566",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:08.440563",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:08.607112",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:08.782586",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:08.962667",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T08:52:09.134520",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.844117",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.853130",
+    "level": "INFO",
+    "message": "JSON: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.859180",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.864216",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.867673",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.870026",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:26:03.873192",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.340576",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.343529",
+    "level": "INFO",
+    "message": "JSON: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.351261",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.353098",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.354927",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.356443",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:36:24.358046",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.294013",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.298613",
+    "level": "INFO",
+    "message": "JSON: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.302761",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.306786",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.310230",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.314162",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.317483",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:28.362946",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:33.521565",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.61)"
+  },
+  {
+    "timestamp": "2026-03-13T14:59:33.524286",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.61, davomiyligi: 367 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:42.058632",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (69 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:48.626439",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (75 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:49.025608",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (76 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:49.526708",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (76 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:50.094025",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (77 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:50.961425",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (77 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:51.084406",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (78 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:51.449735",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (78 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:51.682610",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (78 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:00:59.672513",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (86 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:06.824294",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (93 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:10.086132",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (97 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:10.285869",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (97 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:33.983329",
+    "level": "INFO",
+    "message": "Mehriddin - ENTRY (camera zonasida, confidence: 0.72)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:33.985758",
+    "level": "INFO",
+    "message": "Mehriddin keldi (professional confidence: 0.72)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:34.287807",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:34.577639",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:34.880262",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:34.990236",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:35.183614",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:35.298689",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:35.657714",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:35.881056",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:35.991791",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:36.103451",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:36.616310",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:36.731725",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:36.858424",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:36.975008",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:37.091498",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:37.221852",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:37.449035",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:37.671263",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:37.782980",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:38.020987",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:38.136697",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:38.616904",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:38.747661",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:38.872720",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:39.004611",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:39.126892",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:39.241587",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:39.376144",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:39.487908",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (6 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:40.795239",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:41.082822",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:41.477702",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:41.875385",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (8 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:48.149291",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.71)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:48.151146",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.71)"
+  },
+  {
+    "timestamp": "2026-03-13T15:01:50.136928",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:41.983233",
+    "level": "INFO",
+    "message": "Lochinbek - ENTRY (camera zonasida, confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:41.984665",
+    "level": "INFO",
+    "message": "Lochinbek keldi (professional confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:42.123036",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:42.379854",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:42.491609",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:42.621221",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:42.845836",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:43.429833",
+    "level": "WARNING",
+    "message": "Lochinbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:45.211643",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (57 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:50.716662",
+    "level": "INFO",
+    "message": "Odinaxon - ENTRY (camera zonasida, confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:50.719800",
+    "level": "INFO",
+    "message": "Odinaxon keldi (professional confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:50.838576",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:50.951485",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:51.063628",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:51.290721",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:51.514495",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:51.629581",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:54.427300",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (66 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:02:55.128512",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (67 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:04.645181",
+    "level": "INFO",
+    "message": "Sabrina - ENTRY (camera zonasida, confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:04.647218",
+    "level": "INFO",
+    "message": "Sabrina keldi (professional confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:04.764604",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:04.906838",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:05.021604",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:05.143921",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:05.259302",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:05.623850",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:16.656885",
+    "level": "INFO",
+    "message": "Farizod - ENTRY (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:16.658361",
+    "level": "INFO",
+    "message": "Farizod keldi (professional confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:16.769812",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:16.884157",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:16.997576",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:17.119257",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:17.232090",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:17.350584",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:17.463386",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:17.577678",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:03:17.690680",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:04:44.513979",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.70)"
+  },
+  {
+    "timestamp": "2026-03-13T15:04:44.517603",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.70, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:04:45.039326",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:04:45.870458",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:04:48.613970",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:33.167480",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (109 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:35.331838",
+    "level": "INFO",
+    "message": "Lochinbek - EXIT (camera zonasida, confidence: 0.65)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:35.333393",
+    "level": "INFO",
+    "message": "Lochinbek ketdi (professional confidence: 0.65, davomiyligi: 3 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:35.444848",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:35.557408",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:35.673789",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:35.906977",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:36.465459",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:36.576478",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:36.688360",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:36.798744",
+    "level": "WARNING",
+    "message": "Lochinbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:06:38.862769",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (114 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:07:44.409394",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.67)"
+  },
+  {
+    "timestamp": "2026-03-13T15:07:44.411113",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.67)"
+  },
+  {
+    "timestamp": "2026-03-13T15:07:44.908520",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:07:45.849423",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:07:46.574542",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:07:46.752700",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:09:49.343648",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.64)"
+  },
+  {
+    "timestamp": "2026-03-13T15:09:49.345239",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.64, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:09:49.699055",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:28.816080",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (99 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:40.069810",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (111 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:43.148464",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (114 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:43.761828",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (114 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:47.069732",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (118 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:47.184871",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (118 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:47.408054",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (118 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:47.593664",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (118 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:49.871318",
+    "level": "INFO",
+    "message": "Mehriddin - EXIT (camera zonasida, confidence: 0.66)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:49.872933",
+    "level": "INFO",
+    "message": "Mehriddin ketdi (professional confidence: 0.66, davomiyligi: 10 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:50.237822",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:50.350697",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:50.472468",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:50.695955",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:51.517337",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:51.745918",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:51.861849",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:51.979479",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:11:52.223917",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:00.321664",
+    "level": "INFO",
+    "message": "Odinaxon - EXIT (camera zonasida, confidence: 0.55)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:00.323334",
+    "level": "INFO",
+    "message": "Odinaxon ketdi (professional confidence: 0.55, davomiyligi: 9 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:00.437324",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:00.551634",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:00.667842",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:01.036524",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:01.280656",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.413024",
+    "level": "INFO",
+    "message": "Sabrina - EXIT (camera zonasida, confidence: 0.55)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.414611",
+    "level": "INFO",
+    "message": "Sabrina ketdi (professional confidence: 0.55, davomiyligi: 9 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.533713",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.650449",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.762739",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.874802",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:10.987101",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.211495",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.347048",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.464072",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.576540",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.690696",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.804546",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:11.916855",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:12.030660",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:12.145127",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:12.378263",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:13.067844",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.64)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:13.069534",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.64)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:13.183925",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:13.297029",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:13.523985",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:13.747600",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:14.091603",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:14.540213",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:15.787162",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:15.924568",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:18.514322",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:20.104093",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:22.002055",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (9 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:26.911846",
+    "level": "INFO",
+    "message": "Farizod - EXIT (camera zonasida, confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:26.914912",
+    "level": "INFO",
+    "message": "Farizod ketdi (professional confidence: 0.58, davomiyligi: 9 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:27.040045",
+    "level": "WARNING",
+    "message": "Farizod - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:27.404735",
+    "level": "WARNING",
+    "message": "Farizod - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:27.523304",
+    "level": "WARNING",
+    "message": "Farizod - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:28.883935",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (16 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:39.613740",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (27 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:12:46.124774",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.440190",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.446675",
+    "level": "INFO",
+    "message": "JSON: 5 ta foydalanuvchi ichkarida"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.451340",
+    "level": "INFO",
+    "message": "Oybek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.454055",
+    "level": "INFO",
+    "message": "Asilbek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.456022",
+    "level": "INFO",
+    "message": "Hosila - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.457632",
+    "level": "INFO",
+    "message": "Og'abek - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.459487",
+    "level": "INFO",
+    "message": "Javohir - JSON sessiya davom etmoqda"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.501694",
+    "level": "INFO",
+    "message": "Oybek - EXIT (manual_reset zonasida, confidence: 1.00)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.504444",
+    "level": "INFO",
+    "message": "Oybek majburiy chiqarildi (manual_reset)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.506851",
+    "level": "INFO",
+    "message": "Asilbek - EXIT (manual_reset zonasida, confidence: 1.00)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.508427",
+    "level": "INFO",
+    "message": "Asilbek majburiy chiqarildi (manual_reset)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.510419",
+    "level": "INFO",
+    "message": "Hosila - EXIT (manual_reset zonasida, confidence: 1.00)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.512264",
+    "level": "INFO",
+    "message": "Hosila majburiy chiqarildi (manual_reset)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.515293",
+    "level": "INFO",
+    "message": "Og'abek - EXIT (manual_reset zonasida, confidence: 1.00)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.517345",
+    "level": "INFO",
+    "message": "Og'abek majburiy chiqarildi (manual_reset)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.520464",
+    "level": "INFO",
+    "message": "Javohir - EXIT (manual_reset zonasida, confidence: 1.00)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.522491",
+    "level": "INFO",
+    "message": "Javohir majburiy chiqarildi (manual_reset)"
+  },
+  {
+    "timestamp": "2026-03-13T15:14:06.525070",
+    "level": "INFO",
+    "message": "System reset: 5 ta user majburiy chiqarildi"
+  },
+  {
+    "timestamp": "2026-03-13T15:20:54.044244",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T15:20:54.104642",
+    "level": "INFO",
+    "message": "Professional kamera monitoring boshlandi"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:45.773977",
+    "level": "INFO",
+    "message": "Asilbek - ENTRY (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:45.775766",
+    "level": "INFO",
+    "message": "Asilbek keldi (professional confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:45.885353",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:46.134798",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:46.246882",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:46.580725",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:46.703277",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:46.817282",
+    "level": "WARNING",
+    "message": "Asilbek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:49.907613",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:49.909260",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.62)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:50.025858",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:50.143595",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:50.255471",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:50.366214",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:21:50.539996",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:05.759406",
+    "level": "INFO",
+    "message": "Oybek - ENTRY (camera zonasida, confidence: 0.70)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:05.762730",
+    "level": "INFO",
+    "message": "Oybek keldi (professional confidence: 0.70)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:06.416732",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:06.872167",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:07.682621",
+    "level": "WARNING",
+    "message": "Oybek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:18.988429",
+    "level": "INFO",
+    "message": "Og'abek - ENTRY (camera zonasida, confidence: 0.52)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:18.990181",
+    "level": "INFO",
+    "message": "Og'abek keldi (professional confidence: 0.52)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:19.206073",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:20.103898",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:20.226211",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:20.340300",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:20.803603",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:20.918766",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:22.322987",
+    "level": "WARNING",
+    "message": "Og'abek - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:30.514544",
+    "level": "INFO",
+    "message": "Hosila - ENTRY (camera zonasida, confidence: 0.50)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:30.516260",
+    "level": "INFO",
+    "message": "Hosila keldi (professional confidence: 0.50)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:30.964405",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:31.874062",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:32.117306",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:22:35.415071",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (46 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:13.063689",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.56)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:13.065818",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.56, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.163615",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.272139",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.381760",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.493369",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.614714",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.730789",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.838817",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:14.947728",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:15.163970",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:15.392446",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:17.015349",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:17.606502",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (5 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:19.594870",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:19.801824",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (7 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:20.489384",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (110 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:20.610025",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (110 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:20.719767",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (110 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:20.831497",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (110 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:20.941729",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (110 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:21.051761",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (111 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:21.161446",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (111 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:21.270628",
+    "level": "WARNING",
+    "message": "Hosila - exit ignore qilindi (111 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:26.470146",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (13 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:29.071756",
+    "level": "INFO",
+    "message": "Og'abek - EXIT (camera zonasida, confidence: 0.61)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:29.073494",
+    "level": "INFO",
+    "message": "Og'abek ketdi (professional confidence: 0.61, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:29.182561",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:29.557300",
+    "level": "WARNING",
+    "message": "Og'abek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:38.474786",
+    "level": "INFO",
+    "message": "Asilbek - EXIT (camera zonasida, confidence: 0.58)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:38.478558",
+    "level": "INFO",
+    "message": "Asilbek ketdi (professional confidence: 0.58, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:38.598450",
+    "level": "WARNING",
+    "message": "Asilbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:38.708580",
+    "level": "WARNING",
+    "message": "Asilbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:38.818431",
+    "level": "WARNING",
+    "message": "Asilbek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:39.161890",
+    "level": "WARNING",
+    "message": "Asilbek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:46.592798",
+    "level": "INFO",
+    "message": "Hosila - EXIT (camera zonasida, confidence: 0.60)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:46.594647",
+    "level": "INFO",
+    "message": "Hosila ketdi (professional confidence: 0.60, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:46.703813",
+    "level": "WARNING",
+    "message": "Hosila - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:46.815482",
+    "level": "WARNING",
+    "message": "Hosila - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:47.277591",
+    "level": "WARNING",
+    "message": "Hosila - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:54.674765",
+    "level": "INFO",
+    "message": "Oybek - EXIT (camera zonasida, confidence: 0.72)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:54.676764",
+    "level": "INFO",
+    "message": "Oybek ketdi (professional confidence: 0.72, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:54.787321",
+    "level": "WARNING",
+    "message": "Oybek - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T15:24:55.226990",
+    "level": "WARNING",
+    "message": "Oybek - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-13T16:26:01.483842",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T16:57:49.126364",
+    "level": "INFO",
+    "message": "Auto cleanup: 0 stuck users cleaned up"
+  },
+  {
+    "timestamp": "2026-03-13T16:57:56.391197",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:04:36.021650",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:16:09.658361",
+    "level": "INFO",
+    "message": "Auto cleanup: 0 stuck users cleaned up"
+  },
+  {
+    "timestamp": "2026-03-13T17:16:15.340897",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:18:43.412260",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:21:04.535939",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:25:24.783753",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:27:55.238164",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:29:53.625165",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-13T17:30:27.843392",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-14T14:40:15.876493",
+    "level": "INFO",
+    "message": "Auto cleanup: 0 stuck users cleaned up"
+  },
+  {
+    "timestamp": "2026-03-14T14:40:21.541447",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-14T16:08:09.225099",
+    "level": "INFO",
+    "message": "Auto cleanup: 0 stuck users cleaned up"
+  },
+  {
+    "timestamp": "2026-03-14T16:08:16.052035",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-14T16:08:21.107438",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-14T16:08:21.110840",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.69)"
+  },
+  {
+    "timestamp": "2026-03-14T16:08:21.520889",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:08:23.030711",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:21.391087",
+    "level": "INFO",
+    "message": "Mehriddin - ENTRY (camera zonasida, confidence: 0.84)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:21.394591",
+    "level": "INFO",
+    "message": "Mehriddin keldi (professional confidence: 0.84)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:21.558678",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:21.732597",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:22.029498",
+    "level": "WARNING",
+    "message": "Mehriddin - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:26.515573",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.57)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:26.518916",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.57, davomiyligi: 19 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:27.004534",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:27.666839",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:27.899665",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:28.147948",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:28.625847",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:30.372864",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:27:30.559281",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:30:56.476842",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.53)"
+  },
+  {
+    "timestamp": "2026-03-14T16:30:56.480880",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.53)"
+  },
+  {
+    "timestamp": "2026-03-14T16:30:56.702992",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:30:56.898491",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:30:57.150505",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:15.735732",
+    "level": "INFO",
+    "message": "Sabrina - ENTRY (camera zonasida, confidence: 0.82)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:15.740675",
+    "level": "INFO",
+    "message": "Sabrina keldi (professional confidence: 0.82)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:15.933314",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:16.434656",
+    "level": "WARNING",
+    "message": "Sabrina - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:25.839141",
+    "level": "INFO",
+    "message": "Farizod - ENTRY (camera zonasida, confidence: 0.70)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:25.841187",
+    "level": "INFO",
+    "message": "Farizod keldi (professional confidence: 0.70)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:26.019214",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:26.233067",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:26.415249",
+    "level": "WARNING",
+    "message": "Farizod - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:32.824823",
+    "level": "INFO",
+    "message": "Odinaxon - ENTRY (camera zonasida, confidence: 0.63)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:32.827112",
+    "level": "INFO",
+    "message": "Odinaxon keldi (professional confidence: 0.63)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:32.996545",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:33.148057",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:33.338610",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:31:33.547077",
+    "level": "WARNING",
+    "message": "Odinaxon - exit ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:43.892724",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (107 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:44.134634",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (108 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:44.376567",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (108 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:44.612207",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (108 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:47.271669",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (111 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:47.736943",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (111 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:48.105672",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (112 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:53.180291",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (117 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:53.363408",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (117 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:53.635637",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (117 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:55.117907",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (119 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:55.374211",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (119 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:55.613663",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (119 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:55.830303",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (119 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:56.032248",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (120 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:57.233443",
+    "level": "INFO",
+    "message": "Javohir - EXIT (camera zonasida, confidence: 0.59)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:57.237096",
+    "level": "INFO",
+    "message": "Javohir ketdi (professional confidence: 0.59, davomiyligi: 2 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-14T16:32:57.500365",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:00.611363",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:00.861261",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (4 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:02.962855",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (6 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:08.463360",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:08.696995",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (11 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:08.942113",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:09.225679",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:09.441912",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:09.666182",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (12 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:09.917637",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (13 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:20.475402",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (23 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:20.718489",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (23 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:33:21.422595",
+    "level": "WARNING",
+    "message": "Javohir - entry ignore qilindi (24 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:40.434654",
+    "level": "INFO",
+    "message": "Mehriddin - EXIT (camera zonasida, confidence: 0.79)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:40.438408",
+    "level": "INFO",
+    "message": "Mehriddin ketdi (professional confidence: 0.79, davomiyligi: 8 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:40.590646",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:40.766571",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:41.094260",
+    "level": "WARNING",
+    "message": "Mehriddin - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:47.626608",
+    "level": "INFO",
+    "message": "Odinaxon - EXIT (camera zonasida, confidence: 0.64)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:47.628713",
+    "level": "INFO",
+    "message": "Odinaxon ketdi (professional confidence: 0.64, davomiyligi: 4 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:47.803977",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:47.967373",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:48.129594",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:48.291580",
+    "level": "WARNING",
+    "message": "Odinaxon - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:54.080953",
+    "level": "INFO",
+    "message": "Sabrina - EXIT (camera zonasida, confidence: 0.79)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:54.082958",
+    "level": "INFO",
+    "message": "Sabrina ketdi (professional confidence: 0.79, davomiyligi: 4 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:54.243432",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:54.414696",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:54.569316",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:54.750148",
+    "level": "WARNING",
+    "message": "Sabrina - entry ignore qilindi (1 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:59.499892",
+    "level": "INFO",
+    "message": "Farizod - EXIT (camera zonasida, confidence: 0.56)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:59.502081",
+    "level": "INFO",
+    "message": "Farizod ketdi (professional confidence: 0.56, davomiyligi: 4 daqiqa)"
+  },
+  {
+    "timestamp": "2026-03-14T16:35:59.819455",
+    "level": "WARNING",
+    "message": "Farizod - entry ignore qilindi (0 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:48:50.655442",
+    "level": "INFO",
+    "message": "Auto cleanup: 0 stuck users cleaned up"
+  },
+  {
+    "timestamp": "2026-03-14T16:48:56.681400",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-14T16:48:57.935604",
+    "level": "INFO",
+    "message": "Javohir - ENTRY (camera zonasida, confidence: 0.71)"
+  },
+  {
+    "timestamp": "2026-03-14T16:48:57.939645",
+    "level": "INFO",
+    "message": "Javohir keldi (professional confidence: 0.71)"
+  },
+  {
+    "timestamp": "2026-03-14T16:48:59.997493",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:00.228494",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (2 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:00.464693",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (3 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:13.186810",
+    "level": "INFO",
+    "message": "Javohir - EXIT (session_end zonasida, confidence: 1.00)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:13.189596",
+    "level": "INFO",
+    "message": "Javohir majburiy chiqarildi (session_end)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:13.192100",
+    "level": "INFO",
+    "message": "System reset: 1 ta user majburiy chiqarildi"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:29.239435",
+    "level": "INFO",
+    "message": "JSON: 137 ta encoding, 10 ta foydalanuvchi yuklandi"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:44.363521",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (31 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:45.064297",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (32 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:45.741235",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:46.647867",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (33 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:46.882790",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (34 soniya)"
+  },
+  {
+    "timestamp": "2026-03-14T16:49:47.990097",
+    "level": "WARNING",
+    "message": "Javohir - exit ignore qilindi (35 soniya)"
+  }
+]

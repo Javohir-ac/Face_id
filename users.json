@@ -1,0 +1,72 @@
+{
+  "Javohir": {
+    "name": "Javohir",
+    "created_at": "2026-03-12T15:19:52.963164",
+    "is_active": true,
+    "total_entries": 17,
+    "total_time_minutes": 486
+  },
+  "Lochinbek": {
+    "name": "Lochinbek",
+    "created_at": "2026-03-12T15:30:51.185505",
+    "is_active": true,
+    "total_entries": 3,
+    "total_time_minutes": 97
+  },
+  "Asilbek": {
+    "name": "Asilbek",
+    "created_at": "2026-03-12T15:44:53.812343",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 1406
+  },
+  "Oybek": {
+    "name": "Oybek",
+    "created_at": "2026-03-12T15:44:58.903779",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 1407
+  },
+  "Og'abek": {
+    "name": "Og'abek",
+    "created_at": "2026-03-12T15:45:03.724487",
+    "is_active": true,
+    "total_entries": 3,
+    "total_time_minutes": 1390
+  },
+  "Mehriddin": {
+    "name": "Mehriddin",
+    "created_at": "2026-03-12T15:54:24.414247",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 18
+  },
+  "Odinaxon": {
+    "name": "Odinaxon",
+    "created_at": "2026-03-12T15:56:38.797898",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 13
+  },
+  "Sabrina": {
+    "name": "Sabrina",
+    "created_at": "2026-03-12T16:01:54.770623",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 13
+  },
+  "Farizod": {
+    "name": "Farizod",
+    "created_at": "2026-03-12T16:02:00.520712",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 13
+  },
+  "Hosila": {
+    "name": "Hosila",
+    "created_at": "2026-03-12T16:02:08.635421",
+    "is_active": true,
+    "total_entries": 2,
+    "total_time_minutes": 1393
+  }
+}

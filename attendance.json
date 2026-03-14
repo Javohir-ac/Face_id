@@ -1,0 +1,594 @@
+[
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:19:53.588627",
+    "zone": "camera",
+    "confidence": 0.668,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T15:27:11.888121",
+    "zone": "camera",
+    "confidence": 0.676,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:31:50.918607",
+    "zone": "camera",
+    "confidence": 0.762,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Lochinbek",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:32:06.113165",
+    "zone": "camera",
+    "confidence": 0.585,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Lochinbek",
+    "action": "exit",
+    "timestamp": "2026-03-12T15:34:34.474727",
+    "zone": "camera",
+    "confidence": 0.632,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T15:35:07.625804",
+    "zone": "camera",
+    "confidence": 0.589,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:42:05.478391",
+    "zone": "camera",
+    "confidence": 0.768,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Lochinbek",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:42:19.603100",
+    "zone": "camera",
+    "confidence": 0.404,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T15:44:19.551255",
+    "zone": "camera",
+    "confidence": 0.62,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:47:58.009080",
+    "zone": "camera",
+    "confidence": 0.73,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Og'abek",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:48:20.154909",
+    "zone": "camera",
+    "confidence": 0.688,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Oybek",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:48:30.474382",
+    "zone": "camera",
+    "confidence": 0.626,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Asilbek",
+    "action": "entry",
+    "timestamp": "2026-03-12T15:49:17.104348",
+    "zone": "camera",
+    "confidence": 0.717,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Hosila",
+    "action": "entry",
+    "timestamp": "2026-03-12T16:03:00.479611",
+    "zone": "camera",
+    "confidence": 0.5,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Og'abek",
+    "action": "exit",
+    "timestamp": "2026-03-12T16:03:37.411133",
+    "zone": "camera",
+    "confidence": 0.692,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T16:09:02.372052",
+    "zone": "camera",
+    "confidence": 0.687,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T16:15:53.342627",
+    "zone": "camera",
+    "confidence": 0.624,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T16:17:57.150473",
+    "zone": "camera",
+    "confidence": 0.583,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T16:20:11.812057",
+    "zone": "camera",
+    "confidence": 0.558,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Og'abek",
+    "action": "entry",
+    "timestamp": "2026-03-12T16:20:51.975373",
+    "zone": "camera",
+    "confidence": 0.71,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T16:24:28.087692",
+    "zone": "camera",
+    "confidence": 0.579,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-12T16:31:00.969739",
+    "zone": "camera",
+    "confidence": 0.597,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-12T17:14:14.238499",
+    "zone": "camera",
+    "confidence": 0.685,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Lochinbek",
+    "action": "exit",
+    "timestamp": "2026-03-12T17:15:09.942229",
+    "zone": "camera",
+    "confidence": 0.663,
+    "date": "2026-03-12"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T08:34:48.999581",
+    "zone": "camera",
+    "confidence": 0.593,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T08:38:31.454521",
+    "zone": "camera",
+    "confidence": 0.576,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T08:40:48.946930",
+    "zone": "camera",
+    "confidence": 0.576,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T08:47:21.082790",
+    "zone": "camera",
+    "confidence": 0.566,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T08:52:06.681787",
+    "zone": "camera",
+    "confidence": 0.513,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T14:59:33.521085",
+    "zone": "camera",
+    "confidence": 0.614,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Mehriddin",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:01:33.982838",
+    "zone": "camera",
+    "confidence": 0.725,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:01:48.148862",
+    "zone": "camera",
+    "confidence": 0.705,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Lochinbek",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:02:41.982946",
+    "zone": "camera",
+    "confidence": 0.622,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Odinaxon",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:02:50.715772",
+    "zone": "camera",
+    "confidence": 0.6,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Sabrina",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:03:04.644914",
+    "zone": "camera",
+    "confidence": 0.602,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Farizod",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:03:16.656516",
+    "zone": "camera",
+    "confidence": 0.686,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:04:44.512299",
+    "zone": "camera",
+    "confidence": 0.696,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Lochinbek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:06:35.325950",
+    "zone": "camera",
+    "confidence": 0.648,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:07:44.408952",
+    "zone": "camera",
+    "confidence": 0.667,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:09:49.341890",
+    "zone": "camera",
+    "confidence": 0.645,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Mehriddin",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:11:49.869616",
+    "zone": "camera",
+    "confidence": 0.657,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Odinaxon",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:12:00.319941",
+    "zone": "camera",
+    "confidence": 0.546,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Sabrina",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:12:10.411035",
+    "zone": "camera",
+    "confidence": 0.548,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:12:13.067493",
+    "zone": "camera",
+    "confidence": 0.638,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Farizod",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:12:26.909916",
+    "zone": "camera",
+    "confidence": 0.585,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Oybek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:14:06.500717",
+    "zone": "manual_reset",
+    "confidence": 1.0,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Asilbek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:14:06.506567",
+    "zone": "manual_reset",
+    "confidence": 1.0,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Hosila",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:14:06.510159",
+    "zone": "manual_reset",
+    "confidence": 1.0,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Og'abek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:14:06.515030",
+    "zone": "manual_reset",
+    "confidence": 1.0,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:14:06.520062",
+    "zone": "manual_reset",
+    "confidence": 1.0,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Asilbek",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:21:45.773616",
+    "zone": "camera",
+    "confidence": 0.691,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:21:49.907291",
+    "zone": "camera",
+    "confidence": 0.622,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Oybek",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:22:05.752958",
+    "zone": "camera",
+    "confidence": 0.704,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Og'abek",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:22:18.988092",
+    "zone": "camera",
+    "confidence": 0.523,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Hosila",
+    "action": "entry",
+    "timestamp": "2026-03-13T15:22:30.514232",
+    "zone": "camera",
+    "confidence": 0.503,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:24:13.061891",
+    "zone": "camera",
+    "confidence": 0.565,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Og'abek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:24:29.070099",
+    "zone": "camera",
+    "confidence": 0.605,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Asilbek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:24:38.472908",
+    "zone": "camera",
+    "confidence": 0.58,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Hosila",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:24:46.586962",
+    "zone": "camera",
+    "confidence": 0.604,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Oybek",
+    "action": "exit",
+    "timestamp": "2026-03-13T15:24:54.668975",
+    "zone": "camera",
+    "confidence": 0.717,
+    "date": "2026-03-13"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:08:21.106790",
+    "zone": "camera",
+    "confidence": 0.691,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Mehriddin",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:27:21.390680",
+    "zone": "camera",
+    "confidence": 0.836,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:27:26.513768",
+    "zone": "camera",
+    "confidence": 0.567,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:30:56.476047",
+    "zone": "camera",
+    "confidence": 0.533,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Sabrina",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:31:15.734983",
+    "zone": "camera",
+    "confidence": 0.821,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Farizod",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:31:25.838708",
+    "zone": "camera",
+    "confidence": 0.702,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Odinaxon",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:31:32.824411",
+    "zone": "camera",
+    "confidence": 0.632,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:32:57.231857",
+    "zone": "camera",
+    "confidence": 0.589,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Mehriddin",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:35:40.433897",
+    "zone": "camera",
+    "confidence": 0.787,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Odinaxon",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:35:47.624886",
+    "zone": "camera",
+    "confidence": 0.639,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Sabrina",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:35:54.075202",
+    "zone": "camera",
+    "confidence": 0.788,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Farizod",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:35:59.498227",
+    "zone": "camera",
+    "confidence": 0.56,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "entry",
+    "timestamp": "2026-03-14T16:48:57.934339",
+    "zone": "camera",
+    "confidence": 0.707,
+    "date": "2026-03-14"
+  },
+  {
+    "user_name": "Javohir",
+    "action": "exit",
+    "timestamp": "2026-03-14T16:49:13.168499",
+    "zone": "session_end",
+    "confidence": 1.0,
+    "date": "2026-03-14"
+  }
+]
